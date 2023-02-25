@@ -5398,6 +5398,9 @@ cárcel me arranca.
 [1795] Todos debemos sufrir una de dos cosas: el dolor de la disciplina o el dolor del arrepentimiento.
 -- Jim Rohn
 .
-[] Cuida tu cuerpo. Es el único lugar que tienes para vivir.
+[1796] Cuida tu cuerpo. Es el único lugar que tienes para vivir.
 -- Jim Rohn
-
+.
+[1797] La motivación es lo que te hace comenzar. El hábito es lo que te hace seguir.
+-- Jim Rohn
+.
