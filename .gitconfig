@@ -1,0 +1,10 @@
+[user]
+	name = José Barros
+	email = barros.joseluis@gmail.com
+[core]
+	editor = nvim
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	dif = auto
